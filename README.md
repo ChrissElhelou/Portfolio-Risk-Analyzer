@@ -1,5 +1,5 @@
 # Portfolio Risk Analyzer (VaR Calculator)
-Project I did in a day because I was bored.
+Project I did in a day because I was bored and had no school work.
 
 Python tool to calculate Value-at-Risk (VaR) for financial portfolios through three different methods: Historical Simulation, Parametric (Variance-Covariance), and Monte Carlo Simulation. Fetches real-time market data from Yahoo Finance and generates risk visualizations.
 
