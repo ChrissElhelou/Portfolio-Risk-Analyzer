@@ -11,7 +11,7 @@ Python tool to calculate Value-at-Risk (VaR) for financial portfolios through th
 - Real-time data fetching from Yahoo Finance via `yfinance`
 - Portfolio return calculations
 - Matplotlib visualizations of risk metrics
-- Comprehensive unit tests (pytest)t
+- Comprehensive unit testing (pytest)
 
 ## Installation
 
