@@ -19,7 +19,7 @@ Python tool to calculate Value-at-Risk (VaR) for financial portfolios through th
 - Python 3.9+
 - pip
 
-1. Clone the repository:
+Clone the repository with:
 ```bash
 git clone https://github.com/your-username/Portfolio-Risk-Analyzer.git
 cd Portfolio-Risk-Analyzer
